@@ -1,0 +1,7 @@
+C:\Users\Laris\source\repos\PrimjerArrayListe\PrimjerArrayListe\bin\Debug\PrimjerArrayListe.exe.config
+C:\Users\Laris\source\repos\PrimjerArrayListe\PrimjerArrayListe\bin\Debug\PrimjerArrayListe.exe
+C:\Users\Laris\source\repos\PrimjerArrayListe\PrimjerArrayListe\bin\Debug\PrimjerArrayListe.pdb
+C:\Users\Laris\source\repos\PrimjerArrayListe\PrimjerArrayListe\obj\Debug\PrimjerArrayListe.csprojAssemblyReference.cache
+C:\Users\Laris\source\repos\PrimjerArrayListe\PrimjerArrayListe\obj\Debug\PrimjerArrayListe.csproj.CoreCompileInputs.cache
+C:\Users\Laris\source\repos\PrimjerArrayListe\PrimjerArrayListe\obj\Debug\PrimjerArrayListe.exe
+C:\Users\Laris\source\repos\PrimjerArrayListe\PrimjerArrayListe\obj\Debug\PrimjerArrayListe.pdb
